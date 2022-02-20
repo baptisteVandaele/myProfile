@@ -25,7 +25,7 @@ a:hover{
 }
 
 .card-white {
-  background-color: #e7e9ea;
+  background-color: grey;
   padding: 30px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
@@ -54,7 +54,8 @@ a:hover{
 }
 
 i{
-  color: black;}
+  color: black;
+}
 
 .list-inline li {
   display: inline;
